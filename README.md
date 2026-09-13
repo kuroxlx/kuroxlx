@@ -1,4 +1,4 @@
-![Header](https://github.com/kuroxlx/blob/main/header.png)
+![header](https://github.com//kuroxlx/kuroxlx/blob/main/header.png)
 
 <div align="center">
 
@@ -143,13 +143,13 @@ Please check the individual repository for its own documentation, requirements a
 <br>
 
 ## Terminal Profile
-<img src="https://github.com/kuroxlx/blob/main/about.svg" width="100%" alt="Terminal Cat">
+<img src="https://github.com/kuroxlx/kuroxlx/blob/main/about.svg" width="100%" alt="Terminal Cat">
 <br>
-<img src="https://github.com/kuroxlx/blob/main/skills.svg" width="100%" alt="Terminal Skills">
+<img src="https://github.com/kuroxlx/kuroxlx/blob/main/skills.svg" width="100%" alt="Terminal Skills">
 <br>
-<img src="https://github.com/kuroxlx/blob/main/gh-stats.svg" width="100%" alt="Terminal GitHub">
+<img src="https://github.com/kuroxlx/kuroxlx/blob/main/gh-stats.svg" width="100%" alt="Terminal GitHub">
 <br>
-<img src="https://github.com/kuroxlx/blob/main/footer.svg" width="100%" alt="Terminal Logout">
+<img src="https://github.com/kuroxlx/kuroxlx/blob/main/footer.svg" width="100%" alt="Terminal Logout">
 <br>
 </a>
 </div>
