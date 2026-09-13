@@ -1,4 +1,4 @@
-![header](https://github.com//kuroxlx/kuroxlx/blob/main/header.png)
+![header](https://github.com//kuroxlx/kuroxlx/blob/main/header.png?raw=true "header")
 
 <div align="center">
 
